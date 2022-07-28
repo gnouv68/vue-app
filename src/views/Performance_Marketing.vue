@@ -289,7 +289,7 @@
                 <tbody style="text-align: center">
                   <tr>
                     <td>Từ 20 - dưới 40 triệu</td>
-                    <td>8,000,000</td>
+                    <td>15% * ngân sách</td>
                   </tr>
                   <tr>
                     <td>Từ 40 - dưới 100 triệu</td>
