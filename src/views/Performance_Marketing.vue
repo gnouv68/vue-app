@@ -293,11 +293,11 @@
                   </tr>
                   <tr>
                     <td>Từ 40 - dưới 100 triệu</td>
-                    <td>20% * ngân sách</td>
+                    <td>15% * ngân sách</td>
                   </tr>
                   <tr>
                     <td>Từ 100 - dưới 200 triệu</td>
-                    <td>17% * ngân sách</td>
+                    <td>15% * ngân sách</td>
                   </tr>
                   <tr>
                     <td>Từ 200 - dưới 500 triệu</td>
@@ -305,11 +305,11 @@
                   </tr>
                   <tr>
                     <td>Từ 500 triệu - dưới 1 tỷ</td>
-                    <td>12% * ngân sách</td>
+                    <td>15% * ngân sách</td>
                   </tr>
                   <tr>
                     <td>Từ 1 tỷ</td>
-                    <td>10% * ngân sách</td>
+                    <td>15% * ngân sách</td>
                   </tr>
                 </tbody>
               </table>
