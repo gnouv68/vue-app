@@ -10,10 +10,10 @@
               </ul>
           </div> 
           <div class="col-lg-3 col-md-12 col-sm-12">
-              <p class="p-small statement">Copyright © <a href="#">Tí Vương </a></p>
+              <p class="p-small statement">Copyright © <a href="#">SLT Agency</a></p>
           </div> 
           <div class="col-lg-3 col-md-12 col-sm-12">
-              <p class="p-small statement">Distributed by <a href="https://ngoccuong.xyz" target="_blank">Ngoc Cuong</a></p>
+              <p class="p-small statement">Distributed by <a href="https://www.sltagency.vn/" target="_blank">SLT Agency</a></p>
           </div> 
       </div> 
   </div> 
